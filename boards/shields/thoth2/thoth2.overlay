@@ -9,7 +9,7 @@
 
 / {
 	};
-	&thoth2_physical_layout0 {
+	&thoth2_physical_layout {
 		kscan = &kscan0;
 		transform = &matrix_transform;
 	};
