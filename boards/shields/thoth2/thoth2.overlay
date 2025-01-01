@@ -5,10 +5,11 @@
  */
 
 #include <dt-bindings/zmk/matrix_transform.h>
+#include <thoth2-layouts.dtsi>
 
 / {
 	};
-	&physical_layout0 {
+	&thoth2_physical_layout0 {
 		kscan = &kscan0;
 		transform = &matrix_transform;
 	};
