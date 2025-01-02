@@ -9,10 +9,6 @@
 
 / {
 	};
-	&thoth2_physical_layout {
-		kscan = &kscan0;
-		transform = &matrix_transform;
-	};
 
 	kscan0: kscan {
 		compatible = "zmk,kscan-gpio-matrix";
