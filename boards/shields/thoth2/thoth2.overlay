@@ -7,9 +7,9 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 #include <physical_layouts.dtsi>
 
-	&physical_layout0 {
-		kscan = &kscan0;
-		transform = &matrix_transform;
+&physical_layout0 {
+	kscan = &kscan0;
+	transform = &matrix_transform;
 
 	};
 
