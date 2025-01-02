@@ -3,10 +3,8 @@
  *
  * SPDX-License-Identifier: MIT
  */
-
-#include <dt-bindings/zmk/matrix_transform.h>
 #include <physical_layouts.dtsi>
-
+#include <dt-bindings/zmk/matrix_transform.h>
 
 	&physical_layout0 {
 		kscan = &kscan0;
