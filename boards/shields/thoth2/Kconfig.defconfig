@@ -1,4 +1,4 @@
-if SHIELD_THOTH2
+if SHIELD_thoth2
 
 config ZMK_KEYBOARD_NAME
 	default "thoth2"
