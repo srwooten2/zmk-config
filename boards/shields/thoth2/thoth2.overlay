@@ -3,7 +3,7 @@
  *
  * SPDX-License-Identifier: MIT
  */
-#include <physical_layouts.dtsi>
+#include <physical_layout.dtsi>
 #include <dt-bindings/zmk/matrix_transform.h>
 
 	&physical_layout {
